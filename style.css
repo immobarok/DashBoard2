@@ -1,0 +1,30 @@
+*{
+  /* f68b1f */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.custom-navbar{
+  height: 100px;
+  background-color:#f68b1f;
+}
+.nav-logo{
+  margin: 20px;
+}
+.nav-logo>img{
+  height: 65px;
+  width: 65px;
+}
+.search-bar{
+  margin-left: 100px;
+}
+main>#custom-list{
+  border-right: 1px solid #f68b1f;
+}
+.list-group>a{
+  border: none;
+  padding-top: 20px;
+}
+.list-group>a:hover{
+  color: #f68b1f;
+}
